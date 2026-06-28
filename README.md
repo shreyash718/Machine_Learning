@@ -1,14 +1,17 @@
-# 🪨 Welcome to the Stone Age of ML  
-*(a.k.a. I just started and don’t know what I’m doing yet)*
 
-- `LetsGetstarted.ipynb`
+# Machine Learning
 
-## 🤡 Mission  
-Trying to predict house prices so I can someday afford one.
+Learning different machine learning algorithms by solving real-world problems.
 
-## 🏠 California Housing Price Prediction  
 
-Building a Machine Learning model to predict the **median housing price** of California districts using features like population, median income, and location.
+## PROBLEM_0: California Housing Price Prediction
 
-> Current status:  
-> Learning, experimenting, and hoping the model works better than my life decisions 💀
+**Task**: Predict the median housing price for any California district, 
+given other district-level metrics (regression task).
+
+**Data**: California census data (1990), with features like income, 
+population, room counts, and geographic location per district.
+
+**Performance Measure**: RMSE (Root Mean Squared Error)
+
+**Source**: Hands-On Machine Learning, Chapter 2
